@@ -1,4 +1,4 @@
-# gharm (GitHub Actions Runner Manager)
+# GitHub Actions Runner Manager
 
 Script to manage multiple self-hosted Github Actions runners on a single host.
 
